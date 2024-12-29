@@ -1,0 +1,121 @@
+body{
+    background-color: hsl(185, 41%, 84%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 90vh;
+}
+h2{
+    color: hsl(186, 14%, 43%);
+}
+.container{
+    background-color: white;
+    display: flex;
+    padding:20px;
+    border-radius: 10px;
+    width: 600px;
+}
+h1{
+    color: hsl(186, 14%, 43%);
+ 
+}
+
+
+
+.inp-1{
+    background-color: hsl(189, 41%, 97%);
+    padding: 10px;
+    border-radius: 5px;
+    width: 100%;
+
+    
+}
+.btn-box{
+    display:flex;
+    flex-direction: column;
+}
+
+
+
+.tip-btn{
+    width: 60px;
+    background-color:hsl(183, 100%, 15%) ;
+    color:hsl(0, 0%, 100%) ;
+    border-radius: 5px;
+    padding: 10px;
+
+}
+.custom-btn{
+    width: 60px;
+    background-color: hsl(189, 41%, 97%);
+    color:hsl(186, 14%, 43%) ;
+    border-radius: 5px;
+    padding: 10px;
+}
+.box-right{
+    background-color:hsl(183, 100%, 15%);
+    padding: 20px;
+    border-radius: 10px;
+    width: 50%;
+    gap: 10px;
+
+
+}
+h1{
+    color: hsl(172, 67%, 45%);
+}
+.div-amount{
+    justify-content: space-between;
+    display: flex;
+    padding: 10px;
+    gap: 10px;
+}
+.div-total{
+    justify-content: space-between;
+    display: flex;
+    padding: 10px;
+    gap: 10px;
+}
+.box-left{
+    padding: 20px;
+    margin-right: 10px;
+}
+.inp-2{
+    padding: 10px;
+    border-radius: 5px;
+  
+   
+}
+.box-left{
+  
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+   
+
+}
+.big-btn{
+    margin-top: 100px;
+    width: 100%;
+    padding: 10px;
+    background-color: hsl(172, 35%, 41%);
+    border-radius: 5px;
+    border: none;
+
+}
+.span-2{
+    color: hsl(185, 41%, 84%);
+
+}
+p{
+    color:hsl(186, 14%, 43%);
+}
+.mini-box-1{
+    padding: 3px;
+    width: 100%;
+}
+.mini-box-2{
+    padding: 3px;
+    width: 100%;
+}
